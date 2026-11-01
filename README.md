@@ -13,13 +13,14 @@ const haoireal = {
 ```
 <div align="center">
   <a href="https://github.com/haoireal">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haoireal&langs_count=4&theme=dark_github" alt="Top languages" width="50%">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haoireal&langs_count=4&theme=dark_github" alt="Top languages" width="30%">
   </a>
 </div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">  Tech stack
 
-**Systems & Networking**
+<div align="center" >
+  **Systems & Networking**
 
 ![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7)
@@ -41,6 +42,7 @@ const haoireal = {
 ![DB](https://skillicons.dev/icons?i=mysql,postgres,mariadb)
 
 
+</div>
 
 <!--
 ## 📌 Featured projects
