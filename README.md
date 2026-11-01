@@ -26,7 +26,7 @@ const haoireal = {
 - **Internal web apps**: business-management platform (planning, ticketing, workflows) with AI integration.
 - **EdTech**: Canvas LMS customization, multi-tenant WordPress (custom plugins/themes), OpenEduCat with LLM-based learning-progress monitoring.
 
-## 🧰 Tech stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">  Tech stack
 
 **Systems & Networking**
 
@@ -50,10 +50,6 @@ const haoireal = {
 
 ![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb)
 
-## 🎓 Education
-
-- **HCMC University of Technology and Engineering (HCMUTE)**: IT - Artificial Intelligence (2026 - present)
-- **FPT Polytechnic College, HCMC**: IT - Software Development (2021 - 2023), graduated with High Distinction, GPA 3.7/4.0
 
 ## 📌 Featured projects
 
@@ -65,3 +61,6 @@ const haoireal = {
 
 - Portfolio: [portfolio.haoireal.io.vn](https://portfolio.haoireal.io.vn)
 - Email: [phamghao03@gmail.com](mailto:phamghao03@gmail.com)
+
+  </a>
+</div>
