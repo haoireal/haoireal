@@ -18,14 +18,6 @@ const haoireal = {
 }
 ```
 
-## 🔧 What I work on
-
-- **Enterprise networking**: MikroTik, Cisco, Aruba; VLAN segmentation across multi-site environments.
-- **Infrastructure & storage**: Proxmox, ZFS, MinIO as centralized storage for multi-branch backup.
-- **Monitoring**: ESP-based IoT dashboards for network, temperature, and electrical current.
-- **Internal web apps**: business-management platform (planning, ticketing, workflows) with AI integration.
-- **EdTech**: Canvas LMS customization, multi-tenant WordPress (custom plugins/themes), OpenEduCat with LLM-based learning-progress monitoring.
-
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">  Tech stack
 
 **Systems & Networking**
@@ -34,7 +26,6 @@ const haoireal = {
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7)
 ![Aruba](https://img.shields.io/badge/Aruba-FF8300)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000)
-![ZFS](https://img.shields.io/badge/ZFS-0A6EBD)
 
 ![Linux](https://skillicons.dev/icons?i=linux,bash)
 
@@ -46,9 +37,9 @@ const haoireal = {
 
 **Programming & Databases**
 
-![Dev](https://skillicons.dev/icons?i=ts,react,nodejs,py,php,laravel)
+![Dev](https://skillicons.dev/icons?i=ts,react,nodejs,py,java)
 
-![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb)
+![DB](https://skillicons.dev/icons?i=mysql,postgres,mariadb)
 
 
 ## 📌 Featured projects
