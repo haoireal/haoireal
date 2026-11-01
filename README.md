@@ -4,8 +4,6 @@
   DevOps · System Administrator · Network Engineer<br>
   Ho Chi Minh City, Vietnam
 </p>
-
-Hello everyone, I'm **Gia Hao**, a DevOps and Network engineer based in HCMC.
 I graduated in Software Development from [FPT Polytechnic](https://caodang.fpt.edu.vn/) and I'm currently studying Artificial Intelligence at [HCMUTE](https://hcmute.edu.vn/).
 
 I'm researching **AI Agents** and **NetDevOps**, and I collaborate in both local and national software communities.
