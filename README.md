@@ -1,17 +1,21 @@
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Haoireal+here...;Glad+to+see+you!&center=true&size=30">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Haoireal+here...;Glad+to+see+you!&center=true&size=30" alt="Typing SVG">
 </h1>
+
 
 ```javascript
 const haoireal = {
   fullName: 'Pham Gia Hao',
-  age: 24,
-  roles: ['DevOps', 'System Administrator', 'Network Engineer'],
+  age: 23,
+  roles: ['DevOps', 'SysAdmin','Network Engineer'],
   location: 'VN',
 }
 ```
+<div align="center">
+  <a href="https://github.com/haoireal">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haoireal&langs_count=4&theme=dark_github" alt="Top languages" width="50%">
+  </a>
+</div>
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">  Tech stack
 
@@ -37,19 +41,20 @@ const haoireal = {
 ![DB](https://skillicons.dev/icons?i=mysql,postgres,mariadb)
 
 
-<!-- ## 📌 Featured projects
+
+<!--
+## 📌 Featured projects
 
 TODO: thêm 3-4 repo public đã sanitize (không IP, hostname, credential, tên nội bộ).
-     Mẫu mỗi dòng:
-     - [repo-name](https://github.com/<username>/repo-name): mô tả 1 dòng -->
+Mẫu mỗi dòng:
+- [repo-name](https://github.com/<username>/repo-name): mô tả 1 dòng
+-->
 
 <p align="center">
-<br>
-<a href="https://www.facebook.com/haoireal"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/haoireal"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/haoireal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:haoireal@gmail.com?subject=Hola%20Haoireal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+  <br>
+  <a href="https://portfolio.haoireal.io.vn"><img src="https://img.shields.io/badge/Portfolio-haoireal.io.vn-111827?style=for-the-badge" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.facebook.com/haoireal"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>&nbsp;
+  <a href="https://instagram.com/haoireal"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/haoireal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:haoireal@gmail.com?subject=Hola%20Haoireal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-  </a>
-</div>
