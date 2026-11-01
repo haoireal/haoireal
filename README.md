@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**haoireal/haoireal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello everyone, my name is Gia Hao, *I'm a DevOps and Network engineer located in HCMC and **software application studen at [FPT Polytechnic](https://caodang.fpt.edu.vn/) and IT studen at [HCMUTE].(https://hcmute.edu.vn/)***.      
+I'm currently researching about *AI Agent and NetDevOps*, I collaborate in both local and national software communities.
+```javascript
+const Haoireal = {
+  fullName: 'Pham Gia Hao',
+  age: 24,
+  country: 'VN',
+  birthday: '07/11/2003', //dd/MM/yyyy
+}
+```
