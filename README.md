@@ -1,20 +1,15 @@
-<h1 align="center">Hi, I'm Gia Hao 👋</h1>
-
-<p align="center">
-  DevOps · System Administrator · Network Engineer<br>
-  Ho Chi Minh City, Vietnam
-</p>
-I graduated in Software Development from [FPT Polytechnic](https://caodang.fpt.edu.vn/) and I'm currently studying Artificial Intelligence at [HCMUTE](https://hcmute.edu.vn/).
-
-I'm researching **AI Agents** and **NetDevOps**, and I collaborate in both local and national software communities.
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Haoireal+here...;Glad+to+see+you!&center=true&size=30">
+  </a>
+</h1>
 
 ```javascript
 const haoireal = {
   fullName: 'Pham Gia Hao',
+  age: 24,
   roles: ['DevOps', 'System Administrator', 'Network Engineer'],
-  location: 'Ho Chi Minh City, VN',
-  researching: ['AI Agent', 'NetDevOps'],
-  currentlyStudying: 'Artificial Intelligence @ HCMUTE',
+  location: 'VN',
 }
 ```
 
@@ -42,16 +37,19 @@ const haoireal = {
 ![DB](https://skillicons.dev/icons?i=mysql,postgres,mariadb)
 
 
-## 📌 Featured projects
+<!-- ## 📌 Featured projects
 
-<!-- TODO: thêm 3-4 repo public đã sanitize (không IP, hostname, credential, tên nội bộ).
+TODO: thêm 3-4 repo public đã sanitize (không IP, hostname, credential, tên nội bộ).
      Mẫu mỗi dòng:
      - [repo-name](https://github.com/<username>/repo-name): mô tả 1 dòng -->
 
-## 📫 Contact
-
-- Portfolio: [portfolio.haoireal.io.vn](https://portfolio.haoireal.io.vn)
-- Email: [phamghao03@gmail.com](mailto:phamghao03@gmail.com)
-
+<p align="center">
+<br>
+<a href="https://www.facebook.com/haoireal"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://instagram.com/haoireal"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/haoireal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:haoireal@gmail.com?subject=Hola%20Haoireal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</p>
   </a>
 </div>
