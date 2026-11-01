@@ -39,7 +39,7 @@ const haoireal = {
 
 ![Dev](https://skillicons.dev/icons?i=ts,react,nodejs,py,java)
 
-![DB](https://skillicons.dev/icons?i=mysql,postgres,mariadb)
+![DB](https://skillicons.dev/icons?i=mysql,mariadb,postgres)
 
 
 </div>
